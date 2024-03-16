@@ -15,7 +15,7 @@ export default function Homepageheader() {
               <span className='lg:text-18 md:text-16 sm:text-14'>research and buy in my platform</span>
               </div>
           </div>
-          <div className='flex justify-end lg:h-96 md:h-72 sm:h-64'>
+          <div className='flex justify-end lg:h-96 md:h-72 sm:h-64 '>
             <img src={CA} alt='#'/>
           </div>
       </div>
