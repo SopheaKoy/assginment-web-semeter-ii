@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div>
         <nav className="bg-white border-gray-200 dark:bg-gray-900 shadow-md">
-        <div className="max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto p-2">
+        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2">
         <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
             <img src={logo} className="h-14" alt="Cambodai-Accessory" />
             {/* <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cambodai-Accessory</span> */}

@@ -7,12 +7,12 @@ function Footer() {
   
 
 <footer className="footer bg-white dark:bg-gray-900 bottom-0 ">
-    <div className="mx-auto max-w-screen-2xl w-full p-4 py-6 lg:py-2 bg-gradient-to-r from-gray-300 to-blue-400">
+    <div className="mx-auto max-w-screen-xl w-full p-4 py-6 lg:py-2 bg-gradient-to-r from-gray-300 to-blue-400">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0 flex items-center lg:ml-16">
               <a href="https://flowbite.com/">
                   <img src={logo} className="h-24 rounded-full lg:ml-14 m-2" alt="FlowBite Logo" />
-                  <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cambodai-Accessory</span>
+                  <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cambodia Accessory</span>
               </a>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
@@ -53,7 +53,7 @@ function Footer() {
       </div>
       <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:mt-3 lg:mb-1" />
       <div className="sm:flex sm:items-center sm:justify-center">
-          <a className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="https://flowbite.com/" className="hover:underline">Cambodai-Accessory™</a>. </a>
+          <a className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="https://flowbite.com/" className="hover:underline">Cambodia Accessory™</a>. </a>
           {/* <div className="flex mt-4 sm:justify-center sm:mt-0">
               <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
                   <svg className="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 8 19">
