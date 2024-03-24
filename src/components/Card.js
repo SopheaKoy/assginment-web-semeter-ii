@@ -5,7 +5,7 @@ import placeholderImage from '../lib/logo/placeholder.jpg'; // Add your placehol
 export default function Card() {
   return (
     <section>
-      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-3 overflow-hidden hover:scale-105 transition-transform hover:border-blue-600">
+      <div className="max-w-xs bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-3 overflow-hidden hover:scale-105 transition-transform hover:border-blue-600">
         <a href="#">
           <img
             className="rounded-t-lg"
