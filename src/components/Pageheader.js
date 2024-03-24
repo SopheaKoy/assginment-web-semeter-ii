@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import CA from '../logo/Computer troubleshooting-pana 1.png'
+import CA from '../lib/logo/Computer troubleshooting-pana 1.png'
 // import { Image } from '@mui/icons-material'
 
 export default function Homepageheader() {

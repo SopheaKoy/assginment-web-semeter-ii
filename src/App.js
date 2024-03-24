@@ -1,8 +1,8 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Categorypage from './page/Categorypage';
-import Aboutpage from './page/Aboutpage';
+// import { BrowserRouter, Route, Routes } from 'react-router-dom';
+// import Categorypage from './page/Categorypage';
+// import Aboutpage from './page/Aboutpage';
 import Subhomepage from './components/subhomepage';
 
 export default function App() {

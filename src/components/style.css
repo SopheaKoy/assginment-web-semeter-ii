@@ -1,7 +1,7 @@
 .haha{
-    background: linear-gradient(100deg, #0a07a5 0%, #0b0c0c 50%, #0c59d5 100%);
+    background: linear-gradient( #03025e 0%, #9db4d8 100%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    animation: gradient 2s ease-in infinite; animation: gradient 2s ease-in infinite;
+    animation: gradient 1ms ease-in infinite; animation: gradient 1ms ease-in infinite;
 }

@@ -1,12 +1,12 @@
 import React from 'react'
-import logo from '../logo/CA.jpg'
+import logo from '../lib/logo/CA.jpg'
 
 function Navbar() {
   return (
     <div>
         <nav className="bg-white border-gray-200 dark:bg-gray-900 shadow-md">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2">
-        <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
+        <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
             <img src={logo} className="h-14" alt="Cambodai-Accessory" />
             {/* <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cambodai-Accessory</span> */}
         </a>
